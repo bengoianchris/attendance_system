@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="QR Attend">
+  <rect width="128" height="128" rx="28" fill="#1E3A8A"/>
+  <!-- Scanner frame corners -->
+  <path d="M26 46V32h14M102 46V32H88M26 82v14h14M102 82v14H88" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- QR finder patterns -->
+  <g fill="none" stroke="#ffffff" stroke-width="4">
+    <rect x="38" y="38" width="20" height="20" rx="2"/>
+    <rect x="70" y="38" width="20" height="20" rx="2"/>
+    <rect x="38" y="70" width="20" height="20" rx="2"/>
+  </g>
+  <rect x="44" y="44" width="8" height="8" fill="#ffffff"/>
+  <rect x="76" y="44" width="8" height="8" fill="#ffffff"/>
+  <rect x="44" y="76" width="8" height="8" fill="#ffffff"/>
+  <!-- Data modules -->
+  <rect x="70" y="70" width="8" height="8" fill="#ffffff"/>
+  <rect x="82" y="70" width="8" height="8" fill="#ffffff"/>
+  <rect x="70" y="82" width="8" height="8" fill="#ffffff"/>
+  <rect x="84" y="84" width="6" height="6" fill="#ffffff"/>
+  <!-- Attendance checkmark -->
+  <path d="M56 62l8 8 16-18" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
