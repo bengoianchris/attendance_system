@@ -1,14 +1,4 @@
 <?php
-/**
- * SMS test utility — CLI or browser (admin session).
- *
- * CLI:
- *   php test-sms.php 0700123456
- *   php test-sms.php 256700123456 "Custom test message"
- *
- * Browser (while logged in as admin):
- *   /attendance/test-sms.php?phone=0700123456
- */
 declare(strict_types=1);
 
 require_once __DIR__ . '/conn/config.php';
